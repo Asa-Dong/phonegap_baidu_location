@@ -34,6 +34,6 @@
         </config-file>
         <source-file src="src/android/BaiduLBS_Android.jar" target-dir="libs" framework="true"/>
         <source-file src="src/android/liblocSDK5.so" target-dir="libs/armeabi" framework="true"/>
-        <source-file src="src/android/BaiduGeolocation.java" target-dir="src/com/asa/phonegap/BaiduGeolocationedu"/>
+        <source-file src="src/android/BaiduGeolocation.java" target-dir="src/com/asa/phonegap/BaiduGeolocation"/>
     </platform>
 </plugin>
