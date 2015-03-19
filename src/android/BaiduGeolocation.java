@@ -1,4 +1,4 @@
-package com.asa.phonegap.BaiduGeolocation;
+package com.asa.phonegap.geolocation;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
