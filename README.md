@@ -1,0 +1,2 @@
+# phonegap_baidu_location
+phonegap_baidu_location
